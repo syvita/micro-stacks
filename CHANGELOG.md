@@ -1,5 +1,11 @@
 # micro-stacks
 
+## 0.2.0
+
+### Minor Changes
+
+- [`ae871647`](https://github.com/fungible-systems/micro-stacks/commit/ae8716476b498cde3487a25584f72bfd9e353d10) Thanks [@0xAsteria](https://github.com/0xAsteria)! - Add Syvita's mainnet API network
+
 ## 0.1.17
 
 ### Patch Changes
